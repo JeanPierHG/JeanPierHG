@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeanPierHG
-- 👀 I am interested in finding remote work ...
-- 🌱 I’m currently learning React.js, Redux, Sass, 
-- 💞️ I am looking to collaborate with a company that will give me the opportunity to demonstrate my technical skills and knowledge ...
+- 👀 I am interested in finding remote work.
+- 🌱 I’m currently learning React.js, Redux, Sass.
+- 💞️ I am looking to collaborate with a company that will give me the opportunity to demonstrate my technical skills and knowledge.
 - 📫 How to reach me: 
       Email: jeanpier.dev@outlook.com
 

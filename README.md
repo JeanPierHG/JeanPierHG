@@ -75,6 +75,20 @@
 
 <br>
 
+<h3> Proyectos: </h3>
+
+- Food Recipes App
+
+<p>Una aplicación para que usted pueda buscar recetas y crear sus propias recetas.</p>
+<img align="center" src="./proyecto_individual.png" alt="proyect_food"/>
+
+- Grow Up Libros
+
+<p>E-commerce de libros</p>
+<img align="center" src="./proyectofinal.png" alt="proyecto_final">
+
+<br>
+
 <h3>Estadisticas :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=JeanPierHG&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
